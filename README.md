@@ -25,6 +25,6 @@ Test set: 49
 Accuracy: 93.88%
      
 
-## Conclusion
+## Conclusion   
 
 The K-Nearest Neighbors (KNN) algorithm, as applied to the Iris dataset, demonstrates its effectiveness in classification tasks, achieving an accuracy of 93.88%. While simple, KNN is powerful and can be further optimized by experimenting with different `k` values, distance metrics, and data preprocessing techniques. This implementation serves as a solid foundation for exploring KNN in other datasets and applications.
